@@ -1,0 +1,9 @@
+Scenario Details: Retrieve the lowest priced hotel in Los Angeles on bookings.com
+Steps to execute the selenium code:
+1. Download the project from github
+
+2. Its a maven project with dependencies in POM.xml and integration with TestNG.xml
+3. Navigate to the path wherePOM.xml exists and execute the below maven commands.
+    mvn clean
+    mvn compile
+    mvn test
